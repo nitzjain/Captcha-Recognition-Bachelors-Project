@@ -1,0 +1,6 @@
+Line 528: Class MSComCtl2.MonthView of control MonthView1 was not a loaded control class.
+Line 545: The property name _ExtentX in MonthView1 is invalid.
+Line 546: The property name _ExtentY in MonthView1 is invalid.
+Line 547: The property name _Version in MonthView1 is invalid.
+Line 551: The property name StartOfWeek in MonthView1 is invalid.
+Line 552: The property name CurrentDate in MonthView1 is invalid.
